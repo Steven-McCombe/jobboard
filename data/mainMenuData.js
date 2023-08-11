@@ -92,11 +92,11 @@ export const homeItems = [
 export const findJobItems = [
     {
         id: 1,
-        title: "Jobs Listing",
+        title: "Software Engineering",
         items: [
             {
-                name: "Job List V1",
-                routePath: "/job-list-v1",
+                name: "Software Engineer",
+                routePath: "/job-single-v1/1",
             },
             {
                 name: "Job List V2",
